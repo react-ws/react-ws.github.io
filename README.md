@@ -1,2 +1,2 @@
 # react-ws.github.io
-Main page for REACT workshop.
+Main page for affective computing workshop.
